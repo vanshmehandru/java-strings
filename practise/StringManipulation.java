@@ -1,3 +1,4 @@
+package practise;
 class StringManipulation {
     public static void main(String[] args) {
         String str = "Java Programming";

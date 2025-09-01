@@ -1,3 +1,4 @@
+package practise;
 public class StringArrays {
 
     public static String findLongestName(String[] names) {
